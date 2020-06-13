@@ -104,7 +104,7 @@ function initMap() {
 }
 
 function searchStore(){
-    var foundStores=[];
+    var foundores=[];
     var zipCode =document.getElementById("zip-code").value;
     if(zipCode)
     {
